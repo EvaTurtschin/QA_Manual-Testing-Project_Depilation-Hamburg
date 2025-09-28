@@ -16,9 +16,14 @@
 
 ## Test Environment
 - **Browsers:** Chrome, Firefox, Edge
-- **Devices:** 
-  - Desktop: 1920x1080 (standard)  
-  - Desktop: 1361x1030 (laptop window)
+- **Devices/ Resolutions:**  
+  - Desktop: **1920x1080** (standard full screen)  
+  - Desktop: **1361x1030** (laptop window)  
+  - Tablet / Desktop: **768px** (design breakpoint)  
+  - Mobile: **375px** (design breakpoint)  
+- **Tools:**  
+  - Browser **DevTools** (for responsive view and layout checks)  
+  - Windows 11 (main OS used for testing) 
 
 ## Test Types
 - Functional testing (navigation, links)
