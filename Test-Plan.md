@@ -15,16 +15,16 @@
 - Language switch button
 - Buttons: "Book a Procedure", "Learn About Course", "Enroll in Course", "Select Care", "Download Price List", "Download Program" <span style="color:red">(until further notice)</span>
 
-## 🌍 Test Environment
-- **Browsers:** Chrome, Firefox, Edge  
-- **Devices / Resolutions:**  
+## Test Environment
+- **Browsers:** Chrome, Firefox, Edge
+- **Devices/ Resolutions:**  
   - Desktop: **1920x1080** (standard full screen)  
   - Desktop: **1361x1030** (laptop window)  
   - Tablet / Desktop: **768px** (design breakpoint)  
   - Mobile: **375px** (design breakpoint)  
 - **Tools:**  
   - Browser **DevTools** (for responsive view and layout checks)  
-  - Windows 11 (main OS used for testing)  
+  - Windows 11 (main OS used for testing) 
 
 ## Test Types
 - Functional testing (navigation, links)

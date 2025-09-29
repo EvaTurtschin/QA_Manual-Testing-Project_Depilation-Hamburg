@@ -1,16 +1,5 @@
 # Checklist
 
-- Header is visible on all screen sizes
-- Clicking **Services** scrolls to Services section
-- Clicking **About Me** scrolls to About Me section
-- Clicking **Contacts** scrolls to Contacts section
-- Social media icons open external links in a new tab
-- Footer navigation works the same as header
-- Page layout is consistent on desktop
-- No overlapping or cut-off elements on resize
-
-# Checklist
-
 ## General Functionality
 - Header is visible on all screen sizes
 - Clicking **Services** scrolls to Services section
