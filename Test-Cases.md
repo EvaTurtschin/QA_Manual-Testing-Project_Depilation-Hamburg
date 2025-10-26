@@ -147,7 +147,7 @@ Observe all Services Cards in the Services section
 ### TC12 – About Me Section Display
 **Description:** Verify that the About Me section displays the photo and text correctly.
 **Preconditions:**  
-- Page is opened in browser  
+- Page is opened in browser at 1920x1080 resolution 
 - User is on the About Me section
 **Steps:**  
 1. Observe the photo and text alignment  
@@ -178,7 +178,7 @@ Observe all Services Cards in the Services section
 ### TC14 – Contacts Section Google Map
 **Description:** Verify that the Google Map in the Contacts section functions correctly.
 **Preconditions:**  
-- Page is opened in browser  
+- Page is opened in browser at 1920x1080 resolution 
 - User is on the Contacts section
 **Steps:**  
 1. Interact with the Google Map: zoom in/out, pan around  

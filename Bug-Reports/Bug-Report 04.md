@@ -5,6 +5,7 @@
 **Reporter:** Evgeniya Turtschina  
 **Test Case:** 
   [TC05 – Header Navigation: Location with Address Hover](/Test-Cases.md#tc05--header-navigation-location-with-address-hover)
+  [TC15 – Footer Navigation: Logo](/Test-Cases.md#tc15--footer-navigation-logo)
 
 **Environment:**  
 - Browser: Edge 140  
@@ -38,3 +39,4 @@ Hovering over the "Location with Address" header element changes the text color 
 
 **Notes / Additional Info:**  
 - Likely CSS selector issue: hover effect not applied to the parent block containing both text and icon.
+- Problem reproducable also with Location link in Footer
