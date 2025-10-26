@@ -1,5 +1,5 @@
 #BR-02
-## Bug Report: Bug Report: Mobile Layout Breaks at 375px and Above
+## Bug Report: Mobile Layout Breaks at 375px and Above
 **ID:** BR-02  
 **Date:** 2025-09-29  
 **Reporter:** Evgeniya Turtschina  
